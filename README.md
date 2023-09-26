@@ -70,6 +70,6 @@ The results of the sentiment analysis, including evaluation metrics and insights
 
 - S Hari Prasad Reddy
 - [LinkedIn Profile](https://www.linkedin.com/in/s-hari-prasad-reddy/)
-- [GitHub Profile](https://github.com/Timmapuram-Karthik)
+- [GitHub Profile](https://github.com/S-Hari-Prasad-Reddy)
 
 Feel free to contribute, provide feedback, or use this project for learning and experimentation.
