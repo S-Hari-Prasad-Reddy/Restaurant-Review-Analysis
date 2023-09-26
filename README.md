@@ -5,7 +5,7 @@ This repository contains code and resources for a sentiment analysis project con
 ## Explore the Sentiment Analysis of Restaurant Model!
 Click below to open the project in an interactive Google Colab notebook:
 
-[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Timmapuram-Karthik/Edunet-IBM-Restaurant-Sentiment/blob/main/Sentimental%20Restaurant%20Review.ipynb)
+[![Open in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/S-Hari-Prasad-Reddy/Restaurant-Review-Analysis/blob/main/Sentimental%20Restaurant%20Review.ipynb)
 
 
 ## Table of Contents
@@ -52,8 +52,8 @@ The code within this repository encompasses the complete sentiment analysis pipe
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Timmapuram-Karthik/Edunet-IBM-Restaurant-Sentiment
-   cd Edunet-IBM-Restaurant-Sentiment
+   git clone https://github.com/S-Hari-Prasad-Reddy/Restaurant-Review-Analysis
+   cd Restaurant-Review-Analysis
    ```
 2. Run the Jupyter notebook to perform sentiment analysis on the restaurant reviews dataset.
 
