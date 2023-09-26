@@ -68,8 +68,8 @@ The results of the sentiment analysis, including evaluation metrics and insights
 
 ## Author
 
-- T.Karthik
-- [LinkedIn Profile](https://www.linkedin.com/in/timmapuram-karthik/)
+- S Hari Prasad Reddy
+- [LinkedIn Profile](https://www.linkedin.com/in/s-hari-prasad-reddy/)
 - [GitHub Profile](https://github.com/Timmapuram-Karthik)
 
 Feel free to contribute, provide feedback, or use this project for learning and experimentation.
